@@ -1,4 +1,12 @@
 {
+<<<<<<< HEAD
+    "name": "software-quality-and-testing-exam-git",
+    "description": "Software Quality and Testing Exam on Git",
+    "version": "0.0.1",
+    "dependencies": {},
+    "devDependencies": {
+        "jasmine-node": "1.14.5"
+=======
     "name": "software-quality-and-testing-exam",
     "description": "Software Quality and Testing Exam",
     "version": "0.0.1",
@@ -11,6 +19,7 @@
         "karma-junit-reporter": "0.2.2",
         "karma-phantomjs-launcher": "0.1.4",
         "karma-spec-reporter": "0.0.13"
+>>>>>>> feature/subtract
     },
     "engines": {
         "node": ">=0.10.0"
