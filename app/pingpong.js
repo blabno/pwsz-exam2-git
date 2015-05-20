@@ -1,6 +1,6 @@
-+module.exports = {
-+ ping: function ()
-+ {
-+ return 'pong';
-+ }
-+};
+module.exports = {
+ping: function ()
+{
+return 'pong';
+}
+};
