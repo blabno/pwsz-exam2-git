@@ -5,7 +5,7 @@
 +
 +module.exports = function (config)
 +{
-+ 'use strict';n   
++ 'use strict';
 +
 + config.set({
 + // enable / disable watching file and executing tests whenever any file changes
@@ -62,7 +62,7 @@
 + // - PhantomJS
 + // - IE (only Windows)
 + browsers: [
-+ 'PhantomJS' 
++ 'PhantomJS'
 + ],
 +
 + // Which plugins to enable
